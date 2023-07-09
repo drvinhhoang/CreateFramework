@@ -1,0 +1,22 @@
+{
+  "name": "MyFramework",
+  "version": "1.0.0",
+  "summary": "A summary",
+  "description": "A complete description of MyFramework",
+  "platforms": {
+    "ios": "12.1"
+  },
+  "homepage": "http://EXAMPLE/MyFramework",
+  "license": "MIT",
+  "authors": {
+    "Vinh Hoang": "dr.vinhhoang@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/drvinhhoang/MyFramework.git",
+    "tag": "1.0.2"
+  },
+  "source_files": "MyFramework",
+  "exclude_files": "Classes/Exclude",
+  "swift_versions": "4.2",
+  "swift_version": "4.2"
+}

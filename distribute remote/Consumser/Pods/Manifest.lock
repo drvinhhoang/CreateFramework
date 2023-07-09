@@ -1,0 +1,21 @@
+PODS:
+  - MyFramework (1.0.0)
+
+DEPENDENCIES:
+  - MyFramework (from `https://github.com/drvinhhoang/MyFramework.git`)
+
+EXTERNAL SOURCES:
+  MyFramework:
+    :git: https://github.com/drvinhhoang/MyFramework.git
+
+CHECKOUT OPTIONS:
+  MyFramework:
+    :commit: 1384eba499608cbdc4f30e40b8d17b4737c6515b
+    :git: https://github.com/drvinhhoang/MyFramework.git
+
+SPEC CHECKSUMS:
+  MyFramework: 1d80fb46eacaf9e2eff9df7efe2fdf34d8280844
+
+PODFILE CHECKSUM: f0a89b1443ee2521dd9be6056b6f8ec2e53c1dc1
+
+COCOAPODS: 1.12.1
